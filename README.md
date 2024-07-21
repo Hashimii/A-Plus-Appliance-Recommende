@@ -1,4 +1,4 @@
-Project title: DJ Date App
+## Project title: DJ Date App
 The primary aim of this project was to develop "DJ Date," a novel dating app that connects users based 
 on the musical key and tempo of songs they upload. Here's a breakdown of the app's concept and 
 functionality:
